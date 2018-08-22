@@ -1,0 +1,12 @@
+.imgWrap{
+    height: 50px;
+    line-height: 50px;
+    text-align: left;
+}
+.imgWrap span{
+    float: left;
+
+}
+.imgWrap img{
+    float: left;
+}
