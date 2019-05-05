@@ -91,7 +91,7 @@ class Chat extends  Component{
                         <InputItem
                             value={this.state.text}
                             onChange={v=>this.onChangeInput(v)}
-                            placeholder="请输入内容"
+                            placeholder="请输入内容1"
                             extra={<span onClick={this.setMymsg.bind(this)}>发送</span>}
                         ></InputItem>
                     </List>
